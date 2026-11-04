@@ -1,4 +1,4 @@
-# Pruebas de Comercial Nazareth (adaptación ágil V2)
+# Pruebas del alcance seleccionado de Comercial Nazareth
 
 | ID | Requisito | Qué se prueba | Resultado esperado |
 |---|---|---|---|

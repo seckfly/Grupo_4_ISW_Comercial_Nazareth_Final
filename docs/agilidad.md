@@ -1,5 +1,7 @@
 # Adaptación ágil de Comercial Nazareth (V2)
 
+Este documento recoge las prácticas y el flujo de la base v2.0.1. Sus métricas corresponden a los cinco requisitos seleccionados para esa adaptación. El [SRS completo](SRS.md) reúne el catálogo de la entrega final.
+
 La adaptación parte de la [línea base v1.1](https://github.com/seckfly/Grupo_4_ISW_Comercial_Nazareth_Lab7_V2/tree/v1.1) del [laboratorio de gestión del cambio y trazabilidad](https://github.com/seckfly/Grupo_4_ISW_Comercial_Nazareth_Lab7). Conserva los cinco requisitos, sus casos de uso y el modelo de clases.
 
 ## 1. Validez del trabajo con agilidad
