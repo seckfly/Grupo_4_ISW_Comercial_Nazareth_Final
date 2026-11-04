@@ -1,4 +1,6 @@
-# Matriz de trazabilidad de Comercial Nazareth (adaptación ágil V2)
+# Matriz de trazabilidad del alcance seleccionado
+
+El alcance de esta matriz comprende REQ-001, REQ-002, REQ-007, REQ-010 y REQ-015 y conserva las nueve pruebas de v2.0.1. El [SRS](../docs/SRS.md) reúne el catálogo de quince requisitos funcionales y seis no funcionales.
 
 La columna «¿Cubierto?» indica si el requisito está vinculado a un caso de uso, una clase y una prueba.
 
@@ -10,4 +12,4 @@ La columna «¿Cubierto?» indica si el requisito está vinculado a un caso de u
 | REQ-010 | Vincular cliente a la venta | CU-002; extiende CU-001 | CLS-Cliente, CLS-Venta | PRU-004 | Sí | No aplica |
 | REQ-015 | Mantener productos e inventario con motivo en ajustes manuales | CU-006 | CLS-Producto, CLS-MovimientoInventario | PRU-016, PRU-017, PRU-018, PRU-019 | Sí | CR-001 |
 
-**Cobertura:** 5 de 5 requisitos con prueba = (5 ÷ 5) × 100 = 100 %
+**Cobertura del alcance seleccionado:** 5 de 5 requisitos con prueba = (5 ÷ 5) × 100 = 100 %
